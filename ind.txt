@@ -1,0 +1,1 @@
+indent -kr -nut -ts4 main.c
