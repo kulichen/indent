@@ -1,6 +1,6 @@
   /**
  * floor.c -- программа для расчета нужного этажа
- *
+0;136;0c *
  * Copyright (c) 2009, Student Name <student@cs.karelia.ru>
  *
  * This code is licensed under a MIT-style license.
@@ -9,7 +9,7 @@
 #include<stdio.h>
 
 int main()
-                {
+{
     // Номер квартиры
     int flat_number;
     /* Число квартир на этаже */
