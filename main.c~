@@ -9,7 +9,7 @@
 #include<stdio.h>
 
 int main()
-                 {
+{
     // Номер квартиры
     int flat_number;
     /* Число квартир на этаже */
