@@ -16,7 +16,7 @@ int main()
     int flats_per_floor;
 
     /* Запрашиваем квартиру, в которой проживает адресат */
-        printf
+    printf
         ("Введите номер интересующей квартиры: ");
     scanf("%d", &flat_number);
 
